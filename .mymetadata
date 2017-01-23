@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Node.js"
+  id="myeclipse.1477804057767"
+  context-root="/Node.js"
+  j2ee-spec="5.0"
+  archive="Node.js.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
